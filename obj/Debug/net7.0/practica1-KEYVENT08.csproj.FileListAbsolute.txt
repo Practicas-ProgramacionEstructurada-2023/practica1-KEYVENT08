@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\bin\Debug\net7.0\practica1-KEYVENT08.exe
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\bin\Debug\net7.0\practica1-KEYVENT08.deps.json
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\bin\Debug\net7.0\practica1-KEYVENT08.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\bin\Debug\net7.0\practica1-KEYVENT08.dll
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\bin\Debug\net7.0\practica1-KEYVENT08.pdb
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.dll
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\refint\practica1-KEYVENT08.dll
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.pdb
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\practica1-KEYVENT08.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio_Practicas\practica1-KEYVENT08\obj\Debug\net7.0\ref\practica1-KEYVENT08.dll
